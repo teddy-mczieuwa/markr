@@ -1,0 +1,19 @@
+{
+  "name": "markr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.0",
+    "electron-reload": "^1.4.0"
+  },
+  "dependencies": {
+    "marked": "^0.5.2"
+  }
+}
